@@ -1,0 +1,15 @@
+mode: set
+github.com/SukantArora/go-learning/crud/crudOp.go:61.94,66.16 3 1
+github.com/SukantArora/go-learning/crud/crudOp.go:69.2,71.12 2 1
+github.com/SukantArora/go-learning/crud/crudOp.go:66.16,68.3 1 1
+github.com/SukantArora/go-learning/crud/crudOp.go:74.49,79.16 4 1
+github.com/SukantArora/go-learning/crud/crudOp.go:83.2,85.16 2 1
+github.com/SukantArora/go-learning/crud/crudOp.go:88.2,88.16 1 1
+github.com/SukantArora/go-learning/crud/crudOp.go:79.16,81.3 1 0
+github.com/SukantArora/go-learning/crud/crudOp.go:85.16,87.3 1 1
+github.com/SukantArora/go-learning/crud/crudOp.go:93.83,96.16 2 1
+github.com/SukantArora/go-learning/crud/crudOp.go:99.2,101.12 3 1
+github.com/SukantArora/go-learning/crud/crudOp.go:96.16,98.3 1 1
+github.com/SukantArora/go-learning/crud/crudOp.go:106.43,110.16 2 1
+github.com/SukantArora/go-learning/crud/crudOp.go:113.2,116.12 3 1
+github.com/SukantArora/go-learning/crud/crudOp.go:110.16,112.3 1 1
